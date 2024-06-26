@@ -43,7 +43,8 @@ class MyApp extends StatelessWidget {
       },
     );
   }
-}
+} 
+// ;
 
 class LocaleNotifier extends ChangeNotifier {
   Locale _currentLocale;
